@@ -13,8 +13,4 @@ public class SayHelloDao {
     public void test123123(){
 
     }
-
-    public void zsjhaahah(){
-        System.out.println("我叫张少杰");
-    }
 }
