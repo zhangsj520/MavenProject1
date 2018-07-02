@@ -12,6 +12,6 @@ public class SayHelloDao {
     }
     
     public void zsjhaahah(){
-        Sustem.out.println("我叫张少杰");
+        System.out.println("我叫张少杰");
     }
 }
