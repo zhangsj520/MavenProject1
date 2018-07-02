@@ -10,4 +10,7 @@ public class SayHelloDao {
         System.out.println("zsj is a boy");
         System.out.println("我是新加的代码");
     }
+    public void test123123(){
+
+    }
 }
